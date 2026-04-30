@@ -76,7 +76,8 @@ This script:
 - Outputs one dataset per signal
 
 Output:
-```data/processed/aggregated_by_signal/
+```bash
+data/processed/aggregated_by_signal/
 ```
 
 ---
