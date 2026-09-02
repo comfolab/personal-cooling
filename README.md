@@ -1,8 +1,8 @@
-# Convective Cooling Study – Data Processing & Analysis
+# Personal Cooling Study – Data Processing & Analysis
 
 ## Overview
 
-This repository contains the data processing and analysis pipeline for a study investigating the effect of **local dorsal convective cooling** on:
+This repository contains the data processing and analysis pipeline for a study investigating the effect of **local dorsal cooling** on:
 
 - Skin temperature
 - Microclimate temperature and humidity
