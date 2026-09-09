@@ -46,18 +46,20 @@ data/
 │   └── features/                # Phase features & baseline
 
 reports/
-├── descriptives/                # Tables
-├── figures/                     # Time series plots
-└── mechanistic_plots/           # Scatter & relationships
+├── 01_make_dataset/                
+├── 02_mechanistic_analysis/                     
+├── 04_statistics/
+└── . . . 
 
 scripts/
-├── make_dataset.py
-├── prepare_analysis_dataset.py
-├── run_descriptive_analysis.py
-├── extract_phase_features.py
-├── plot_phase.py
-├── statistic.py
-
+├── 1_make_dataset.ipynb
+├── 2_prepare_analysis_dataset.ipynb
+├── 3_extract_phase_feature.ipynb
+├── 4_statistics.ipynb
+├── 5_plot_phase.ipynb
+├── 6_humidity.ipynb
+├── 7_questionnaire.ipynb
+├── 8_moisture_retain.ipynb
 
 ---
 
