@@ -1,6 +1,7 @@
-# Ignora tutti i csv
+
 *.csv
 *.png
 *.jpg
 *.jpeg
 *.csv:Zone.Identifier
+*.pdf
